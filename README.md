@@ -1,5 +1,5 @@
 # Dashboard
-It's a web app I built to show a concept design for a dashboard
+It's a concept design for a dashboard
 # Author
 - [Fabien RAKOTOMAMPIANDRA](https://github.com/FabienNeibaf)
 # Live demo
